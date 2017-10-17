@@ -20,8 +20,9 @@
     "@angular/http": "4.4.3",
     "@angular/platform-browser": "4.4.3",
     "@angular/platform-browser-dynamic": "4.4.3",
-    "@ionic-native/core": "4.3.0",
+    "@ionic-native/core": "^4.3.1",
     "@ionic-native/splash-screen": "4.3.0",
+    "@ionic-native/sqlite": "^4.3.1",
     "@ionic-native/status-bar": "4.3.0",
     "@ionic/storage": "2.0.1",
     "ionic-angular": "3.7.1",
@@ -31,7 +32,7 @@
     "zone.js": "0.8.18"
   },
   "devDependencies": {
-    "@ionic/app-scripts": "3.0.0",
+    "@ionic/app-scripts": "^3.0.0",
     "typescript": "2.3.4"
   },
   "description": "An Ionic project"
